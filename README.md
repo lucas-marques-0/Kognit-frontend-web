@@ -4,9 +4,9 @@
 
 ## Descrição
 
-### Projeto desenvolvido como parte de um teste técnico (site web) em React.
+### Projeto desenvolvido como parte de um teste técnico em React (site web).
 
 ## Instruções:
 
-### Para rodar o projeto, rode: `npm start`
+### Para rodar o projeto, execute no terminal: `npm start`
 
