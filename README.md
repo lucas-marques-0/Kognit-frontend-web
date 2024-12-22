@@ -1,4 +1,4 @@
-# Projeto Front-end Web (Kognit)
+# Projeto Front-end Web [React] (Kognit)
 
 ![image](https://github.com/user-attachments/assets/937b275f-c2f0-4a88-af85-6f4471fe253a)
 
